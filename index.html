@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>English to tamil converter</title>
+    <link rel="stylesheet" type="text/css" href="css/default.css">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet"  type="text/css" href="css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css">
+
+    <script language=JavaScript src="scripts/jquery-2.1.1.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <script language=JavaScript src="scripts/common.js"></script>
+    <script language=JavaScript src="scripts/tamil.js"></script>
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript">stLight.options({publisher: "ur-a54d2d3c-f5d2-b68e-19b9-4100a82bfeca", doNotHash: false, doNotCopy: false, hashAddressBar: true});</script>
+    <script>
+        $( document ).ready(function() {
+            //$("textarea").focus();
+            //var e = $.Event('keypress');
+            //e.which = 68; // Character 'A'
+            //$('textarea').trigger(e);
+            $("textarea").on("keypress", function(e) {
+                toggleKBMode(e);
+                convertThis(e);
+                //onKeyDown="toggleKBMode(event)" onKeyPress="javascript:convertThis(event)"
+            });
+        });
+    </script>
+</head>
+<body>
+
+    <div class="page-header">
+        <h1>English to tamil typewriter</h1>
+    </div>
+    <div class="container">
+        <div class="row">
+            <h4>Please type in the text area below to convert to tamil letters</h4>
+            <br /> <br/>
+            <div class=".col-md-6 .col-md-offset-3">
+                <form name="post" method="post" role="form">
+                    <textarea name="comment" charset="utf-8" class="form-control" id="textarea" cols="10" rows="8"></textarea>
+            </form>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <footer>
+        <div class="container">
+            <p>Put together in less than an hour by Prashanth.</p>
+        </div>
+    </footer>
+</body>
+</html>
