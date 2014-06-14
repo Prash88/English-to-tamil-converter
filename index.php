@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>English to tamil converter</title>
-    <link rel="stylesheet" type="text/css" href="css/default.css">
+    <title>English to tamil typewriter</title>
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet"  type="text/css" href="css/bootstrap.min.css">
 
     <!-- Optional theme -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css">
+
+    <link rel="stylesheet" type="text/css" href="css/default.css">
 
     <script language=JavaScript src="scripts/jquery-2.1.1.min.js"></script>
     <!-- Latest compiled and minified JavaScript -->
@@ -43,14 +44,24 @@
             <div class=".col-md-6 .col-md-offset-3">
                 <form name="post" method="post" role="form">
                     <textarea name="comment" charset="utf-8" class="form-control" id="textarea" cols="10" rows="8"></textarea>
-            </form>
+                </form>
+            </div>
+            <h4>Tamil - English letter map used in conversion</h4>
+            <div class="col-xs-6 col-lg-offset-3 ">
+                <a href="#" class="thumbnail">
+                    <img src="images/tamil.png" alt="125x125">
+                </a>
             </div>
         </div>
     </div>
     <hr>
     <footer>
         <div class="container">
-            <p>Put together in less than an hour by Prashanth.</p>
+            <div class="pull-left"><p>Developed by Prashanth. All rights reserved.</p></div>
+            <ul class="share-buttons col-lg-offset-6">
+        	    <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fenglish-to-tamil.herokuapp.com%2F" target="_blank"><img src="images/flat_web_icon_set/color/Facebook.png"></a></li>
+        	    <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fenglish-to-tamil.herokuapp.com%2F&text=English%20to%20tamil%20typewriter: http%3A%2F%2Fenglish-to-tamil.herokuapp.com%2F" target="_blank" title="Tweet"><img src="images/flat_web_icon_set/color/Twitter.png"></a></li>
+            </ul>
         </div>
     </footer>
 </body>

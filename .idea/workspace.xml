@@ -5,7 +5,10 @@
     <ignored path="English-to-tamil.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="8de6245a-4adf-4d30-9f0a-9e44f54daf20" time="1402751888759" ignored="false" />
-    <file path="/default.css" changelist="8de6245a-4adf-4d30-9f0a-9e44f54daf20" time="1402748871087" ignored="false" />
+    <file path="/default.css" changelist="8de6245a-4adf-4d30-9f0a-9e44f54daf20" time="1402760819818" ignored="false" />
+    <file path="/kraken-buttons-css.css" changelist="8de6245a-4adf-4d30-9f0a-9e44f54daf20" time="1402757470465" ignored="false" />
+    <file path="/a.dummy" changelist="8de6245a-4adf-4d30-9f0a-9e44f54daf20" time="1402757510351" ignored="false" />
+    <file path="/index.php" changelist="8de6245a-4adf-4d30-9f0a-9e44f54daf20" time="1402761535648" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,28 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="66" selection-start="2113" selection-end="2113" vertical-scroll-proportion="0.7185741">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="tamil.png" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/tamil.png">
           <provider selected="true" editor-type-id="images">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.css.map" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap.css.map">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
           </provider>
         </entry>
       </file>
@@ -71,7 +56,7 @@
       <file leaf-file-name="default.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/default.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="25" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0">
+            <state line="22" column="0" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -80,9 +65,8 @@
       <file leaf-file-name="common.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/common.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="593" column="22" selection-start="15571" selection-end="15571" vertical-scroll-proportion="-16.384615">
+            <state line="593" column="22" selection-start="15571" selection-end="15571" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="n#!!doc" expanded="true" />
                 <marker date="1402743994000" expanded="true" signature="2867:2928" placeholder="..." />
                 <marker date="1402743994000" expanded="true" signature="2955:2994" placeholder="..." />
                 <marker date="1402743994000" expanded="true" signature="3226:3319" placeholder="..." />
@@ -118,16 +102,25 @@
       <file leaf-file-name="tamil.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/tamil.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="554" column="20" selection-start="14492" selection-end="14497" vertical-scroll-proportion="-7.5">
+            <state line="554" column="20" selection-start="14492" selection-end="14497" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.min.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
+      <file leaf-file-name="bootstrap-theme.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap-theme.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="6" column="1" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="91" selection-start="2413" selection-end="2413" vertical-scroll-proportion="0.6223022">
               <folding />
             </state>
           </provider>
@@ -145,8 +138,11 @@
       <list>
         <option value="$PROJECT_DIR$/scripts/common.js" />
         <option value="$PROJECT_DIR$/scripts/tamil.js" />
-        <option value="$PROJECT_DIR$/css/default.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/kraken-buttons-css.css" />
+        <option value="$PROJECT_DIR$/css/social-sharing-css.css" />
+        <option value="$PROJECT_DIR$/css/default.css" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -182,6 +178,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -196,7 +193,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="English-to-tamil" />
+              <option name="myItemId" value="English-to-tamil-converter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -206,7 +203,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="English-to-tamil" />
+              <option name="myItemId" value="English-to-tamil-converter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -220,7 +217,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="English-to-tamil" />
+              <option name="myItemId" value="English-to-tamil-converter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -234,7 +231,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="English-to-tamil" />
+              <option name="myItemId" value="English-to-tamil-converter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -248,7 +245,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="English-to-tamil" />
+              <option name="myItemId" value="English-to-tamil-converter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -262,7 +259,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="English-to-tamil" />
+              <option name="myItemId" value="English-to-tamil-converter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -272,7 +269,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,6 +277,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
@@ -333,9 +330,9 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32921347" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24952741" sideWeight="0.6704036" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24952741" sideWeight="0.6707865" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -412,18 +409,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="27" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/common.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <marker date="1402743994000" expanded="true" signature="2867:2928" placeholder="..." />
             <marker date="1402743994000" expanded="true" signature="2955:2994" placeholder="..." />
             <marker date="1402743994000" expanded="true" signature="3226:3319" placeholder="..." />
@@ -483,11 +472,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/tamil.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -504,16 +488,13 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavascriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="983" column="0" selection-start="15566" selection-end="15566" vertical-scroll-proportion="0.33272395">
-          <folding />
-        </state>
+        <state line="983" column="0" selection-start="15566" selection-end="15566" vertical-scroll-proportion="0.33272395" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="593" column="22" selection-start="15571" selection-end="15571" vertical-scroll-proportion="-16.384615">
+        <state line="593" column="22" selection-start="15571" selection-end="15571" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <marker date="1402743994000" expanded="true" signature="2867:2928" placeholder="..." />
             <marker date="1402743994000" expanded="true" signature="2955:2994" placeholder="..." />
             <marker date="1402743994000" expanded="true" signature="3226:3319" placeholder="..." />
@@ -547,21 +528,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/tamil.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="554" column="20" selection-start="14492" selection-end="14497" vertical-scroll-proportion="-7.5">
+        <state line="554" column="20" selection-start="14492" selection-end="14497" vertical-scroll-proportion="0.0">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="1" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/tamil.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/gray-background.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/default.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="25" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0">
+        <state line="22" column="0" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="66" selection-start="2113" selection-end="2113" vertical-scroll-proportion="0.7185741">
+        <state line="59" column="91" selection-start="2413" selection-end="2413" vertical-scroll-proportion="0.6223022">
           <folding />
         </state>
       </provider>
